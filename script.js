@@ -4,7 +4,6 @@
 // Generiamo da JS due bottoni ed un DIV
 let counterValue = 0;
 let displayCounter = document.createElement("h2");
-const buttonsContainer = document.getElementsByClassName("buttons");
 const buttonMore = document.createElement("button");
 const buttonLess = document.createElement("button");
 
